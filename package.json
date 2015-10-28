@@ -1,0 +1,8 @@
+{
+    "name": "dulo",
+    "version": "0.0.1",
+    "description": "This is a nodeGame game",
+    "author": "author <email>",
+    "license": "MIT/X11",
+    "homepage": "http://nodegame.org"
+}
